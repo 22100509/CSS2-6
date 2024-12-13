@@ -5,11 +5,11 @@
 }
 
 #mainDiv {
-   margin-top: 64px;
+   
    max-width: 1604px;
    padding: 96px;
    background: #E4EBFF;
-   margin: 0 auto;
+   margin: 64px auto;
 }
 
 #childDiv {
